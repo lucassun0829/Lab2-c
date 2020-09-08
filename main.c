@@ -12,31 +12,31 @@ int main(void) {
   double num = atof(str); 
 
   if(num>=93.0){
-    printf("Your letter grade for CMPSC 131 is A.");
+    printf("Your letter grade for CMPSC 131 is A.\n");
   }
   else if(num>=90.0){
-    printf("Your letter grade for CMPSC 131 is A-.");
+    printf("Your letter grade for CMPSC 131 is A-.\n");
   }
   else if(num>=87.0){
-    printf("Your letter grade for CMPSC 131 is B+.");
+    printf("Your letter grade for CMPSC 131 is B+.\n");
   }
   else if(num>=83.0){
-    printf("Your letter grade for CMPSC 131 is B.");
+    printf("Your letter grade for CMPSC 131 is B.\n");
   }
   else if(num>=80.0){
-    printf("Your letter grade for CMPSC 131 is B-.");
+    printf("Your letter grade for CMPSC 131 is B-.\n");
   }
   else if(num>=77.0){
-    printf("Your letter grade for CMPSC 131 is C-.");
+    printf("Your letter grade for CMPSC 131 is C-.\n");
   }
   else if(num>=70.0){
-    printf("Your letter grade for CMPSC 131 is C.");
+    printf("Your letter grade for CMPSC 131 is C.\n");
   }
   else if(num>=60.0){
-    printf("Your letter grade for CMPSC 131 is D.");
+    printf("Your letter grade for CMPSC 131 is D.\n");
   }
   else{
-    printf("Your letter grade for CMPSC 131 is F.");
+    printf("Your letter grade for CMPSC 131 is F.\n");
   }
   
   return 0;
